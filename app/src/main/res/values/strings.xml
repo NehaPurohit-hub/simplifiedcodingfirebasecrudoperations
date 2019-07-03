@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">simplifiedcoding(firebasecrudoperations)</string>
+    <array name="Generes">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>sufi</item>
+    </array>
+</resources>

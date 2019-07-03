@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178954933888",
+    "firebase_url": "https://simplifiedcodingfirebasecrudop.firebaseio.com",
+    "project_id": "simplifiedcodingfirebasecrudop",
+    "storage_bucket": "simplifiedcodingfirebasecrudop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178954933888:android:53027441cedf40ed",
+        "android_client_info": {
+          "package_name": "com.example.simplifiedcodingfirebasecrudoperations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178954933888-jaamj16n5e1388sukdnn28mqoc2fao1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplifiedcodingfirebasecrudoperations",
+            "certificate_hash": "94f110ed0d8a0b511db1ba19e1dc4b00186de2f8"
+          }
+        },
+        {
+          "client_id": "178954933888-e9kb06pueg99plsfbml3mvcscl5ckll9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7pNLl9Al2B-7LjHNzVYHYVAFtFKjp1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178954933888-e9kb06pueg99plsfbml3mvcscl5ckll9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
